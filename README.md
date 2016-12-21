@@ -1,2 +1,3 @@
-# Play-Audio
-Play Audio on Browser using JavaScript
+# Simple Projects
+This directory contain some simple Projects.
+This projects based on HTML, JavaScript, SQLite.

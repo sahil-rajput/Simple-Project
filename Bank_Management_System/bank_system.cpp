@@ -22,6 +22,7 @@ void Bank :: openAccount()
 	cout<<"\nEnter the Name of Client : ";
 	cin>>name;
 	cout<<"Enter the Address of Client : ";
+	cin.ignore();
 	getline(cin,address);
 	cout<<"Enter the Mobile Number of Client : ";
 	cin>>mobileno;

@@ -1,3 +1,3 @@
 # Simple Projects
-This directory contain some simple Projects.
-This projects based on HTML, JavaScript, SQLite.
+This repository contains simple Projects.
+These projects are based on HTML, JavaScript, SQLite.
